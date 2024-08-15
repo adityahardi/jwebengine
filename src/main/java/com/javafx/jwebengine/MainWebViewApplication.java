@@ -1,7 +1,6 @@
-package com.community.javafx.jwebengine;
+package com.javafx.jwebengine;
 
 import javafx.application.Application;
-import javafx.concurrent.Worker.State;
 import javafx.scene.Scene;
 import javafx.scene.control.Menu;
 import javafx.scene.control.MenuBar;

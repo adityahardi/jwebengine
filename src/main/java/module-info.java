@@ -4,6 +4,6 @@ module com.community.javafx.jwebengine {
     requires javafx.web;
 
 
-    opens com.community.javafx.jwebengine to javafx.fxml;
-    exports com.community.javafx.jwebengine;
+    opens com.javafx.jwebengine to javafx.fxml;
+    exports com.javafx.jwebengine;
 }

@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="jwebengine:jfx">
+    <output-path>$PROJECT_DIR$/out/artifacts/jwebengine_jfx</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.javafx.jwebengine.MainWebViewApplication" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Anu" />
+        <option name="vendor" value="Una" />
+        <option name="version" value="1.0.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="jwebengine.jar">
+        <element id="module-output" name="jwebengine" />
+      </element>
+    </root>
+  </artifact>
+</component>
